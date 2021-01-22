@@ -6,9 +6,11 @@
 
 # Screenshots of the best_selling_book_rack application
 
+# HOME UI
 <div>
     <img src="public/img1.png">
 </div>
+
 <div>
     <img src="public/img2.png">
 </div>
@@ -16,13 +18,16 @@
 <div>
     <img src="public/img3.png">
 </div>
+
 <div>
     <img src="public/img4.png">
 </div>
-
-<div>
-    <img src="public/order_redirect_amzn_img1.png">
-</div>
+# Book's Detailes UI
 <div>
     <img src="public/purchase_img1.png">
+</div>
+
+# Order Detailes
+<div>
+    <img src="public/order_redirect_amzn_img1.png">
 </div>
