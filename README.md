@@ -22,7 +22,8 @@
 <div>
     <img src="public/img4.png">
 </div>
-# Book's Detailes UI
+
+# Books Detailes UI
 <div>
     <img src="public/purchase_img1.png">
 </div>
